@@ -96,6 +96,6 @@ class CityListTest {
 
     @Test
     void testCitiesCanFly() {
-        assertEquals(2, 1 + 1);
+        fail();
     }
 }
